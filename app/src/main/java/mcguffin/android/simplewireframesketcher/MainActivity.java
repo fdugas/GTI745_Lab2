@@ -7,6 +7,7 @@ import android.app.Activity;
 import android.view.Window;
 import android.view.WindowManager;
 //test premier commit
+//test deuxième commit
 public class MainActivity extends AppCompatActivity {
     MultitouchFramework mf;
     @Override
